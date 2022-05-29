@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone 👋
 
 - 🔭 I’m currently working on Freelance Developer
 - 🌱 I’m currently learning Kotlin, Flutter, Laravel
