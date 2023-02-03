@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 
 - 🔭 I’m currently working on Freelance Developer
-- 🌱 I’m currently learning Kotlin, Flutter, Laravel
+- 🌱 I’m currently learning Kotlin, Flutter, Laravel, Python
 - 👯 I’m looking to collaborate on projects
 - 🤔 I’m looking for help with Website Development or Mobile Development
 - 💬 Ask me about Laravel, Kotlin and Flutter
