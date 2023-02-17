@@ -16,7 +16,7 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmadidris&show_icons=true&theme=radical)
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mhmadidris&theme=dark)](https://git.io/streak-stats)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mhmadidris&custom_title=Github%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
